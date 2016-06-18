@@ -1,6 +1,6 @@
 # Persian (Farsi) Slug generator for Laravel 5.X
 
-[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
+[![Total Downloads](https://poser.pugx.org/hosseinhkj/slug/d/total.svg)](https://packagist.org/packages/laravel/framework)
 [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
 
 # Quick Installation
