@@ -1,14 +1,24 @@
 {
-    "name": "hosseinhkj/slug",
-    "description": "A simple Laravel 5.x package to create Persian (Farsi) slugs",
-    "keywords": ["slug", "laravel", "persian", "farsi"],
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Hossein Jabbari",
-            "email": "mr.hhkj@gmail.com"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {}
+  "name": "hosseinhkj/slug",
+  "description": "A simple Laravel 5.x package to create Persian (Farsi) slugs",
+  "keywords": [
+    "slug",
+    "laravel",
+    "persian",
+    "farsi"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Hossein Jabbari",
+      "email": "mr.hhkj@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Hosseinhkj\\Slug\\": "src/"
+    }
+  }
 }
