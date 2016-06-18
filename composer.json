@@ -9,6 +9,6 @@
             "email": "mr.hhkj@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }
