@@ -1,0 +1,13 @@
+{
+    "name": "hosseinjabbari/slug",
+    "description": "A simple Laravel 5.x package to create Persian (Farsi) slugs",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hossein Jabbari",
+            "email": "mr.hhkj@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
