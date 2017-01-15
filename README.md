@@ -22,5 +22,10 @@ Hosseinhkj\Slug\SlugServiceProvider::class,
 ```php
 'Slug' => Hosseinhkj\Slug\Facades\Slug::class,
 ```
+#### Example
+```php
+use Slug;
+$slug=Slug::slugify("سلام خوبی؟ این یک تست است"); // سلام-خوبی-این-یک-تست-است
+```
 
 And that's it! With your coffee in reach, start building out some awesome slugs!
