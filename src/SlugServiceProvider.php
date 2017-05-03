@@ -23,8 +23,8 @@ class SlugServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        $this->app['slug'] = $this->app->share(function ($app) {
-            return new Slug;
+        $this->app->singleton('slug', function () {
+            return new Slug();
         });
     }
 }
