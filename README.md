@@ -6,7 +6,7 @@
 Begin by installing the package through Composer.
 
 ```
-composer require hosseinhkj/slug:dev
+composer require hosseinhkj/slug
 ```
 
 Once this operation is complete, simply add both the service provider and facade classes to your project's `config/app.php` file:
