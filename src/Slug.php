@@ -7,7 +7,7 @@ class Slug
         $string = strtolower($string);
         $string = str_replace('‌',' ',$string);
         $string = \Illuminate\Support\Str::words($string,$limit,'');
-        $string = mb_ereg_replace('([^ا-ی۰-۹a-z0-9]|-)+', $separator, $string);
+        $string = mb_ereg_replace('([^آ-ی۰-۹a-z0-9]|-)+', $separator, $string);
         $string = strtolower($string);
         return trim($string, $separator);
     }
