@@ -1,3 +1,5 @@
+### This package has been replaced with this package: https://github.com/hojabbr/PersianSlug
+
 # Persian (Farsi) Slug generator for Laravel 5.X
 
 [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
